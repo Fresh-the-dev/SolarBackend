@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-  <img src="assets/Solar" alt="Solar" style="display:block; margin:auto;">
+  <img src="assets/Solar.png" alt="Solar.png" style="display:block; margin:auto;">
 </div>
   
 </div>
