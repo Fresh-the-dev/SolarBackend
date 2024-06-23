@@ -1,0 +1,48 @@
+<div style="text-align:center;">
+  <img src="assets/Solar" alt="Solar" style="display:block; margin:auto;">
+</div>
+  
+</div>
+
+# Solar
+
+Solar is a universal Fortnite private server backend written in TypeScript.
+
+## Getting Started
+
+To get started with `Solar`, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Fresh-the-dev/SolarBackend.git
+   ```
+
+2. **Install Node.js:**
+   Install the latest version of [Node.js](https://nodejs.org/).
+
+3. **Setting up Environment:**
+
+   - Navigate to the `config` folder
+   - Rename `.env.example` to `.env`
+   - Edit `CLIENT_SECRET` in the `.env` file and enter your backend client secret (enter a random string of number or letters must be 32 characters or more.).
+
+4. **Install Dependencies:**
+   Open your command prompt and run:
+
+   ```bash
+   npm install
+   ```
+
+5. **Build Solar:**
+   Run the command:
+
+   ```bash
+   npm run build
+   ```
+
+6. **Start Solar:**
+   To start Solar, run:
+   ```bash
+   node .
+   ```
